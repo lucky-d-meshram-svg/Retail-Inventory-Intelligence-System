@@ -1,9 +1,6 @@
 # Retail Inventory Intelligence System
 
-
-Uploading pyslq_projectREC.mp4…
-
-
+https://github.com/user-attachments/assets/83985520-a35a-4d40-a24e-9855cdc8dfea
 
 ## Project Overview
 
