@@ -267,4 +267,5 @@ The project provides actionable insights into product demand, inventory performa
 
 **Lucky Meshram**
 
-Data Analytics | SQL | Python | Business Intelligence
+| Data Analytics | SQL | Python |
+
