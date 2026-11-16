@@ -4,6 +4,7 @@
 Uploading pyslq_projectREC.mp4…
 
 
+
 ## Project Overview
 
 The Retail Inventory Intelligence System is an end-to-end analytics project developed using SQL and Python to analyze retail inventory performance, demand patterns, and pricing strategies.
@@ -267,6 +268,6 @@ The project provides actionable insights into product demand, inventory performa
 
 ### Author
 
-**Lucky Dushant Meshram**
+**Lucky Meshram**
 
 Data Analytics | SQL | Python | Business Intelligence
